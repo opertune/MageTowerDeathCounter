@@ -1,0 +1,7 @@
+## Interface: 90200
+## Title: MageTowerDeathCounter
+## Author: Opertune
+## Version: 1.0
+## SavedVariablesPerCharacter: MageTowerDeathCounterSV
+
+main.lua
